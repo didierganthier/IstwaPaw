@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IstwaPaw</string>
+
+    <string name="T1_Story">Kawotchou machin ou kreve sou yon wout vid. Ou pagen siyal. Ou deside mande woulib. On pickup sal kanpe bo kotew. On neg figi dwol ouve pot la epil diw: \"Ou vle on woulib gasonm?\" </string>
+    <string name="T1_Ans1">Map monte! Mesi pou ed la</string>
+    <string name="T1_Ans2">Pitom mandel sil pa on asasen anvan </string>
+
+
+    <string name="T2_Story">Li souke tet li tou dousman!Kesyon an fel sezi.</string>
+    <string name="T2_Ans1">O mwen misye onet epi mbezwen woulib lan map monte kanmem.</string>
+    <string name="T2_Ans2">Tann, mpanse mkonn kijan poum ranje on kawotchou.</string>
+
+
+    <string name="T3_Story">Pandan li komanse kondwi, li komanse pale de relasyon li gen ak manmanl, plis lap pale, plis lap fache. Li mandew ouvri bwat a gan an, anndanl wap jwenn yon kouto plen san, 2 dwet tranche avek yon CD Wendy. Li lonje menl bo bwat a gan an</string>
+    <string name="T3_Ans1">Mwen Renmen Maurice Sixto! Ou bal CD an.</string>
+    <string name="T3_Ans2">Sim pa touyel lap touyem! Ou pran kouto a ou pikel.Li endispoze</string>
+
+
+    <string name="T4_End">Oh! On polisye deyo leu sa? Ou te konnen aksidan sikilasyon se dezyem bagay ki touye plis moun?</string>
+    <string name="T5_End">Pandan wap desann machin lan, wap panse a kijan sa te dwol pou w pike moun kap kondwiw lan ak on kouto.</string>
+    <string name="T6_End">Ou mete tet ou ansanm ak asasin an nap pale de Ti Sentaniz. Li lagew nan vil ki pi devan an. Avanw ale li mandew siw konn on bon kote pou lage kek ko moun mouri. Ou dil eseye simtye a.</string>
+	
+    <string name="fen">Fen Istwa an</string>
+</resources>
